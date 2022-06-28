@@ -53,7 +53,7 @@ a:hover {
   background-color: #fe9496;
 }
 .box2 {
-  height: 43rem;
+  height: fit-content;
   margin-block-start: 1.5rem;
   margin-block-end: 1rem;
   border: 0.1rem solid black;
