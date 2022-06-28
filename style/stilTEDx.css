@@ -19,7 +19,7 @@
   box-shadow: 0rem 0rem 3rem 1.5rem rgba(0, 0, 0, 70%);
 }
 .box2 {
-  height: 45rem;
+  height: fit-content;
   margin-block-start: 1rem;
   margin-block-end: 1rem;
   margin-inline-start: 0.2rem;
