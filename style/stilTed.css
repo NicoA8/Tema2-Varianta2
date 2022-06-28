@@ -1,0 +1,67 @@
+.tot {
+  background: linear-gradient(145deg, #dcf6ff 35%, #088ec0 65%);
+  background-attachment: fixed;
+  background-position: center;
+}
+.box {
+  width: calc(100vh - 15rem);
+  height: calc(100vh - 8rem);
+  background: #fff;
+  border: 1rem solid transparent;
+  margin-block-start: 2.5rem;
+  margin-block-end: 2.5rem;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  padding: 0.5rem;
+  box-sizing: content-box;
+  overflow: auto;
+  border-radius: 1.5rem;
+  box-shadow: 0rem 0rem 3rem 1.5rem rgba(255, 255, 255, 70%);
+}
+h1 {
+  font-size: 3rem;
+  font-family: "Arial", sans-serif;
+  margin-block-start: 0.5rem;
+  margin-block-end: 0.5rem;
+  margin-inline-end: 1rem;
+  margin-inline-start: 0rem;
+  padding: 0.5rem 0rem;
+}
+.menu {
+  margin-block-start: 1rem;
+  margin-block-end: 1rem;
+}
+a {
+  margin-block-start: 2rem;
+  margin-block-end: 2rem;
+  margin-inline-start: 0rem;
+  margin-inline-end: 1rem;
+  padding: 0.5rem 1rem;
+  border-inline-end: 0.4rem solid black;
+  border-radius: 0.6rem;
+  text-decoration-line: none;
+  font-size: 1rem;
+  font-family: "Arial", sans-serif;
+}
+a:link,
+a:visited {
+  color: black;
+}
+a:hover {
+  color: white;
+  background-color: #000;
+  border-inline-end: 0.4rem solid #088ec0;
+}
+.gif {
+  width: 27rem;
+  height: 12rem;
+  margin-inline-start: 0.5rem;
+  margin-block-end: 0rem;
+  margin-block-start: 1rem;
+  border-radius: 1rem;
+}
+p {
+  text-align: center;
+  font-size: 1.1rem;
+  font-family: "Arial", sans-serif;
+}
